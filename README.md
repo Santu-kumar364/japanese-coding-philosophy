@@ -156,7 +156,6 @@ After each delivery, teams reflect — not to assign blame, but to discover what
 
 > “In the West, you write code to ship features.  
 > In Japan, we write code to last decades.”  
-> – Hiroshi Nakamura, Senior Engineer
 
 Write your codebase like you’re planting a garden: slow, sustainable, beautiful — and it will thrive for decades.
 
