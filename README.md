@@ -159,9 +159,4 @@ After each delivery, teams reflect — not to assign blame, but to discover what
 
 Write your codebase like you’re planting a garden: slow, sustainable, beautiful — and it will thrive for decades.
 
-
-```
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
