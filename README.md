@@ -1,6 +1,5 @@
 # 🇯🇵 Japanese Coding Philosophy: Why It Works Better
 
-
 ## 🌸 Overview
 
 For the past three years, I have delved into the software development landscape in Japan, and one of the things I learned completely revolutionized my approach to coding.
@@ -161,9 +160,6 @@ After each delivery, teams reflect — not to assign blame, but to discover what
 
 Write your codebase like you’re planting a garden: slow, sustainable, beautiful — and it will thrive for decades.
 
----
-
-## 📁 Repository Structure
 
 ```
 
