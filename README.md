@@ -169,21 +169,6 @@ Write your codebase like you’re planting a garden: slow, sustainable, beautifu
 ## 📁 Repository Structure
 
 ```
-japanese-coding-philosophy/
-├── examples/
-│   ├── kaizen-improvements.java
-│   ├── wabi-sabi-validator.java
-│   ├── jidoka-bugfix.java
-├── principles/
-│   ├── monozukuri.md
-│   ├── kaizen.md
-│   ├── jidoka.md
-│   ├── hansei.md
-│   ├── seven-wastes.md
-├── README.md
-```
-
----
 
 ## 📄 License
 
