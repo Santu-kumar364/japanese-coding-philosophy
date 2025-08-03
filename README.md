@@ -1,8 +1,5 @@
 # 🇯🇵 Japanese Coding Philosophy: Why It Works Better
 
-> A practical look at why Japanese developers write code differently — and why their approach often leads to more maintainable, reliable, and timeless software.
-
----
 
 ## 🌸 Overview
 
